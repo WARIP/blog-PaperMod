@@ -76,7 +76,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to My Blog"
+    Title: "Blog-likelihood!"
     Content: "In this blog, I will learn through writing posts here, and hopefully you too will learn something."
     
   analytics:
