@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "Markov chains, defined in a measure theoretic sense"
+date: 28-03-2023
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["measure-thoery"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -35,4 +35,4 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-Hi my name is aviv [blah](https://twitter.com/intent/tweet/?text%3DMy%201st%20post%26url%3Dhttp%3A%2F%2Flocalhost%3A1313%2Fposts%2Fpage%2F%26hashtags%3Dfirst)
+You have probably heard of markov chains. Citing [wikipedia](https://en.wikipedia.org/wiki/Markov_chain), "".
