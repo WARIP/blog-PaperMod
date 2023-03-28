@@ -31,8 +31,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/aviro2000/blog-PaperMod/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-You have probably heard of markov chains. Citing [wikipedia](https://en.wikipedia.org/wiki/Markov_chain), "".
+You have probably heard of markov chains. Citing [wikipedia](https://en.wikipedia.org/wiki/Markov_chain), "A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event".
