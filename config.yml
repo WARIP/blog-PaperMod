@@ -15,10 +15,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Blog blog
+  title: Days of Light
   description: "blog"
-  keywords: [Blog, Research, Fun]
-  author: Eitan Porat
+  keywords: [learning, math, general]
+  author: Aviv Ruimi
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -55,14 +55,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Blog"
+    text: "Days of Light"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Blog
+    title: Days of Light
     subtitle: "e"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -77,7 +77,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome to My Blog"
-    Content: "In this blog, I will document my personal learning journey. I will try to summarize and distill key ideas I learned. "
+    Content: "In this blog, I will learn through writing posts here, and hopefully you too will learn something."
     
   analytics:
     google:
@@ -93,7 +93,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/eitanporat/eitanporat.github.io/tree/main/content"
+    URL: "https://github.com/aviro2000"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
