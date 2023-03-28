@@ -3,7 +3,7 @@ title: "Markov chains, defined in a measure theoretic sense"
 date: 28-03-2023
 # weight: 1
 # aliases: ["/first"]
-tags: ["measure-thoery"]
+tags: ["draft","measure-thoery","ergodic-thoery"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "We will see a measure theoretic definition of markov chains, and we will explore the conditions for ergodicity and weak mixing, with connection to graph theory and applications."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
