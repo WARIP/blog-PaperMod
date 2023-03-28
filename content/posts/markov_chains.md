@@ -41,7 +41,7 @@ editPost:
 ---
 You have probably heard of markov chains. Citing [wikipedia](https://en.wikipedia.org/wiki/Markov_chain), "A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event".
 
-
+jubi juba, jubi juba!
 <div class = "rtl">
 עברית עברית עברית!
 <\div>
