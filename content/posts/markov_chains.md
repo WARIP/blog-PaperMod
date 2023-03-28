@@ -60,14 +60,34 @@ We consider the set of possible sequences, which can be seen as infinite walks o
 This set of sequences is defined as $\Sigma_A^+ = \lbrace\vec{x} = (x_1,x_2...,) : s_{x_i x_i+1} = 1\rbrace$. 
 Now we would like to say what are the "events" for whom we have a probability of happening, where an event is actually a subset of $\Sigma_A^+$.
 The events mentioned in the beginning are a kind of events we would like to have, e.g. of the form $\lbrace\vec{x} \in \Sigma_A^+ : x_{t_0} = a\rbrace$ and $\lbrace\vec{x} \in \Sigma_A^+ : x_{t_0} = a, x_{t_1} = b\rbrace$.
-We would start by including sets of the form $\lbrace\vec{x} \in \Sigma_A^+ : \forall i \in \[m\]: x_{i} = a_i\rbrace$ for $m \in \mathbb{N}$ a finite set and $\lbrace a_i \rbrace_{\[m\]} \subseteq \Sigma_A^+$.
+We would start by including sets of the form $\lbrace\vec{x} \in \Sigma_A^+ : \forall i \in \[m\]: x_{i} = a_i\rbrace$ for $m \in \mathbb{N}$ a finite set and $\lbrace a_i \rbrace_{i=1}^{m} \subseteq \Sigma_A^+$.
 These are called *cylinder* sets, and are denoted shortly by $\[a_0 ... a_j ... a_{m}\]$. 
 The cylinder sets will generate our sigma algebra. Actually, it would be very nice if this sigma-algebra was a Borel sigma algebra of some topology on $\Sigma_A^+$. Luckily for us, it is!
 This space could be viewed as endowed with the product topology (with the topology on $S$ being the discrete topology). Equivalently, we can view this as the topology of the metric space $\Sigma_A^+$ with the metric $d(\vec{x},\vec{y}) = 2^{-min\lbrace k: x_k \neq y_k\rbrace}$. We will denote this sigma algebra by $\mathcal{B}$.
 
 Now we would like to define the appropriate probability.
-Actually using conditional probabilities, we would like to have:
-[\]
+Actually using conditional probabilities, we would like to have for the cylinder sets:
+$$\mathbb{P}(\[a_1,a_2..,a_m\]) = \mathbb{P}(a_1) \cdot \mathbb{P}(a_2|a_1) \cdot ... \cdot \mathbb{P}(a_m|a_{m-1},...,a_1)$$
+
+We will assume that our process has memory for only 1 timestep, which yields:
+$$\mathbb{P}(\[a_1,a_2..,a_m\]) = \mathbb{P}(a_1) \cdot \mathbb{P}(a_2|a_1) \cdot ... \cdot \mathbb{P}(a_m|a_{m-1})$$
+
+Because our the cylinder sets generates the sigma algebra, this formula will allow us to define the probability measure on every set from the sigma algebra. What we need is $\mathbb{P}(a_{j+1}|a_j)$ and $\mathbb{P}(a_j)$ for every $i,j$.
+This will be given to us (together with $S$ and $A$), by a matrix $P$ and a vector $\vec{p}$.
+They will satisfy the properties we would like them to satisfy according to $P_{ij} = \mathbb{P}(a_j|a_i)$ and $p_i = \mathbb{P}(a_i)$. 
+
+For $\vec{p}$ we would like to have:
+
+- $\sum_{i \in S} p_i = 1$
+- $p_i \geq 0$ for every $i \in S$
+
+Such a vector $\vec{p}$ is called a *probability vector*.
+
+For $P$ we would like to have:
+- $P_{ij} \geq 0$ for every $i,j \in S$
+- Compatibility with $A$- $A_{ij} = 0 \implies P_{ij} = 0$ for every $i,j \in S$
+- $\sum_j P_{ij} = 1$ for every $i \in S$ ($\sum_{j \in S}\mathbb{P}(i|j) = 1$)
+
 
 
 
