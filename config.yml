@@ -1,12 +1,12 @@
-title: Blog blog
+title: Days of Light
 paginate: 5
 theme: PaperMod
-baseURL: "https://in-search-of-great-ideas.netlify.app/"
+baseURL: "https://days-of-light.netlify.app/"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-disqusShortname: in-search-of-great-ideas-1
+disqusShortname: days-of-light-1
 googleAnalytics: UA-123-45
 
 minify:
