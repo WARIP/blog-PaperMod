@@ -11,7 +11,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "We will see a measure theoretic definition of markov chains, and we will explore the conditions for ergodicity and weak mixing, with connection to graph theory and applications."
+description: "We will see a measure theoretic definition of markov chains.
+This will prepare us to explore in the following posts (if those will be written) the conditions for ergodicity and weak mixing, with connection to graph theory and applications."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -38,10 +39,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
-You have probably heard of markov chains. Citing [wikipedia](https://en.wikipedia.org/wiki/Markov_chain), "A Markov chain or Markov process is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event".
-We will look more into the properties and define this object through the lens of measure theory.
+In general, we may have a sequence of states, one at each time step. We can model this dynamic as being with "short memory" - traversing from some state at time $t$ to another state at time $t+1$ has some probability depending on the first and second state (by that order), without also taking into account the entire history. From this need came the notion of Markov chains. 
+We will look more into the properties of markov chains and define this object through the lens of measure theory.
 
-This blog-post is heavily based on chapter 1.5.4 from [Omri Sarig's lectures notes on Ergodic Theory](https://www.weizmann.ac.il/math/sarigo/sites/math.sarigo/files/uploads/ergodicnotes.pdf), with many parts copied with a little to no change- you may check it for better explanations and a rigorous presentation of the material, and on many other aspects of ergodic theory as well.
+This blog-post is heavily based on chapter 1.5.4 from [Omri Sarig's lectures notes on Ergodic Theory](https://www.weizmann.ac.il/math/sarigo/sites/math.sarigo/files/uploads/ergodicnotes.pdf)- you may check it for better explanations and a rigorous presentation of the material, and on many other aspects of ergodic theory as well.
 
 Let us look at time as discrete ($\mathbb{N}$). We can think of an event/state happening at each time, where the event is one of a finite set of possible events (denoted by $S$). 
 A very natural question would be to ask "What is the probability of an event $a \in S$ happening at time $t = t_1$?". But we are interested in more than that- we want also to ask questions like "What is the probability of an event $a \in S$ happening at time $t = t_1$ and an event $b \in S$ happening at time $t = t_2$?".
@@ -72,7 +73,7 @@ $$\mathbb{P}(\[a_1,a_2..,a_m\]) = \mathbb{P}(a_1) \cdot \mathbb{P}(a_2|a_1) \cdo
 We will assume that our process has memory for only 1 timestep, which yields:
 $$\mathbb{P}(\[a_1,a_2..,a_m\]) = \mathbb{P}(a_1) \cdot \mathbb{P}(a_2|a_1) \cdot ... \cdot \mathbb{P}(a_m|a_{m-1})$$
 
-Because our the cylinder sets generates the sigma algebra, this formula will allow us to define the probability measure on every set from the sigma algebra. What we need is $\mathbb{P}(a_{j+1}|a_j)$ and $\mathbb{P}(a_j)$ for every $i,j$.
+Because our the cylinder sets generates the sigma algebra, this formula will allow us to define the probability measure on every set from the sigma algebra. What we need is $\mathbb{P}(a_{j+1}|a_j)$ and $\mathbb{P}(a_j)$ for every $i,j$.l
 This will be given to us (together with $S$ and $A$), by a matrix $P$ and a vector $\vec{p}$.
 They will satisfy the properties we would like them to satisfy according to $P_{ij} = \mathbb{P}(a_j|a_i)$ and $p_i = \mathbb{P}(a_i)$. 
 
