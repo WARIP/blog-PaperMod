@@ -8,7 +8,7 @@ author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Some thoughts about the dynamics of the usage of the internet not in a healthy way"
@@ -48,7 +48,3 @@ Really, a life could be past this way. I am pretty ashamed to count the number o
 Many people have gone through a similar situation. There are several billions of phone users around the world, who probably experience similar difficulties.
 
 I hope there would be phones, tablets and computers with an option
-
-{{< footnotes >}}
-
-
