@@ -26,7 +26,6 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 rtl: true
 math: true
-footnotes: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
