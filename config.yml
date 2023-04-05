@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Blog-likelihood!"
-    Content: "In this blog, I will learn through writing posts here, and hopefully you too will learn something."
+    Title: "Blog-likelihood"
+    Content: "The articles here written attempt to represent some version of the author's thought in the date of publishing. THe author will learn through writing posts here, and hopefully more people too will learn something."
     
   analytics:
     google:
