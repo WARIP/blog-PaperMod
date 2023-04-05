@@ -4,14 +4,14 @@ date: 05-04-2023
 # weight: 1
 # aliases: ["/first"]
 tags: ["draft","thoughts"]
-author: "Me"
+author: ["Me","ChatGPT (helped with the wording in some places)"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-description: "Some examples of heresies. This post should be read after reading Paul Graham's "What you can't say""
+description: "Here described some examples of heresies. This post should be read after reading Paul Graham's essay 'What you can't say'"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -39,8 +39,7 @@ editPost:
 
 ---
 
-This post is a reflection after reading the mentioned essay by Paul Graham.
-There are indeed certain ideas that wil iritate very much some group of people, when this group is close enough to me, the thought containing this idea in the mind becomes almost unbearable. Then, the mind has its way of switching to other thoughts, but this uncomfortable thought remains present in the background.
+After reading Paul Graham's essay 'What You Can't Say', I began reflecting on the uncomfortable ideas that we may encounter in our lives. Sometimes, these ideas can be so irksome to certain groups that merely thinking about them becomes unbearable. As our minds attempt to distract ourselves with other thoughts, these uncomfortable ideas continue to linger in the background, vying for our attention.
 
 Right now I see a good definition for this kind of thoughts- ideas that make some people's identity to collapse, in their mind, where the thinker knows it too. What I mean by that is that some people (which may be a one person, up to some large percentage of the world's population) are building their identity and their way of justifying their actions, "feel of meaning" and their world view.
 

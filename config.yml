@@ -77,7 +77,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Blog-likelihood"
-    Content: "The articles here written attempt to represent some version of the author's thought in the date of publishing. THe author will learn through writing posts here, and hopefully more people too will learn something."
+    Content: "The articles on this website aim to capture the author's current thoughts and ideas at the time of publishing. By writing and sharing these posts, the author hopes to learn, while also providing opportunities for readers to learn something new."
     
   analytics:
     google:
