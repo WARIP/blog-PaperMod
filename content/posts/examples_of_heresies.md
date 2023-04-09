@@ -8,7 +8,7 @@ author: ["Me","ChatGPT (helped with the wording in some places)"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Here described some examples of heresies. This post should be read after reading Paul Graham's essay 'What you can't say'"
