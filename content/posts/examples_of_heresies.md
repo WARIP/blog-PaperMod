@@ -1,5 +1,5 @@
 ---
-title: "Concrete examples in the process of thinking through PG's essay "what you can't say""
+title: "Concrete examples in the process of thinking through PG's essay \"what you can't say\""
 date: 05-04-2023
 # weight: 1
 # aliases: ["/first"]

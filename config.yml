@@ -1,12 +1,12 @@
-title: Days of Light
+title: Work in Progress 01
 paginate: 5
 theme: PaperMod
-baseURL: "https://days-of-light.netlify.app/"
+baseURL: "https://work-in-progress-01.netlify.app/"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-disqusShortname: days-of-light-1
+disqusShortname: work-in-progress-01-1
 googleAnalytics: UA-123-45
 
 minify:
@@ -15,7 +15,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Days of Light
+  title: Work in Progress 01
   description: "blog"
   keywords: [learning, math, general]
   author: Aviv Ruimi
@@ -55,14 +55,14 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Days of Light"
+    text: "Work in Progress 01"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Days of Light
+    title: Work in Progress 01
     subtitle: "e"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Blog-likelihood"
-    Content: "The articles on this website aim to capture the author's current thoughts and ideas at the time of publishing. By writing and sharing these posts, the author hopes to learn, while also providing opportunities for readers to learn something new."
+    Title: "Work in progress 01"
+    Content: "The articles on this website aim to capture my current thoughts and ideas at the time. By writing and sharing these posts, I hope to digest the clutter in my mind, while also providing along the way an opportunity for readers to learn something new."
     
   analytics:
     google:
