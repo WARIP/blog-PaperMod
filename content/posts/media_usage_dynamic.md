@@ -1,5 +1,5 @@
 ---
-title: "Web surfing is a special way for distracting"
+title: "Web surfing is a special way of distraction"
 date: 28-03-2023
 # weight: 1
 # aliases: ["/first"]
