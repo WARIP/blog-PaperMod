@@ -51,7 +51,9 @@ Here I will write about thoughts that came during the introduction and the first
 - "History is repeated"- as atoms are recycled, with stars forming from the remains of previous stars, then dying, and again.
 - All the planets in the solar system are situating near the same disk, and with similar axes of spinning, which probably implies that all of the solar system was originated from the same spinning disk of matter.
 - The planets in the solar system are 4 rocky planets, and then 4 gas giants, which probably implies that in the beginning of the sun, solar wind blew far away hydrogen and helium, and also "rocky" matter which got less far. Then these clouds of matter/gas clumped together due to gravity, which created the planets.
-- 
+- I didn't know that in 1969 meteorites were found on Antarctica.
+- Chondrites are stones from the time before the sun was created, and achondrites (which are more rare on earth) are stones from the time after the sun was created.
+- It is interesting that the examples given are of stones from antarctica, the arabian peninsula and the sahara desert. What is common between them is that they all are deserts. Probably it is easier to find the rocks in the desert, and they also don't move very much (as opposed to a place that have rain and vegetation). 
 ## Chapter 1
 
 
