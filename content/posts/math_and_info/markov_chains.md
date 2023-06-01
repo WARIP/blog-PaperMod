@@ -49,7 +49,8 @@ A very natural question would be to ask "What is the probability of an event $a 
 
 We can also add the assumption that there is some dynamic of change between states, which does not depend on time. For example, when if there are some physical laws involved, this allows us to learn from current data about the dynamics that happened in the past, and will happen in the future. Mathematically speaking, we would like the answer to the first question presented above to be the same for every $t_1$, and the answer for the second question to depend only on $t_2 - t_1$. 
 
-Now we will translating our wishes to a measure theoretic setting, with defining the set of events, probability measure and the time invariance property mentioned. Later, we will discuss the ergodicty and (strong) mixing properties of this setting.
+Now we will translating our wishes to a measure theoretic setting, with defining the set of events, probability measure and the time invariance property mentioned. 
+Later, we will discuss the ergodicty and (strong) mixing properties of this setting.
 
 Our set of states is a finite set $S = [N]$, the *alphabet*. Not every sequence of $2$ states is possible to happen one after the other. This information is encoded in a matrix $A = (s_ij)_{S \times S}$ composed of $0$s and $1$s, which is the *transition matrix*. Looking at $S$ as nodes of a directed graph, and $A$ defines the possible edges.
  ![graph](https://i.imgur.com/KNcGfqi.png)
