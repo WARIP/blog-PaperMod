@@ -1,5 +1,5 @@
 ---
-title: "Why not not aiming at \"doing good\"?"
+title: "Aiming at \"doing good\" = ?"
 date: 30-05-2023
 # weight: 1
 # aliases: ["/first"]
