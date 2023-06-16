@@ -1,5 +1,5 @@
 ---
-title: "People are hiding and it is tricky to observe it"
+title: "I am grateful for these"
 date: 21-04-2023
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Most of the time, people's \'output\' (text, speech) is very much driven by hiding and showing some useful mask to the outer world, and it is not clear at first glance."
+description: "How amazing is it that X"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -38,3 +38,4 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
+A gratitude that so many things exist, as closed houses, social structures and mindsets allowing a high security where I am (e.g. to eat outdoors and rest), air conditioning, the internet as connecting me with a lot of meaningful and mind changing information that I wouldn't get otherwise, on language, on the mathematical constructions, on how fortunate I am to learn math and playing piano from a relatively young age, and pretty much consistently, for the people who love me and for the people I love (~=appreciate the moments near them, their thoughts and feelings and their existence), for the diet that is built on so many deaths in the past millions of years.
