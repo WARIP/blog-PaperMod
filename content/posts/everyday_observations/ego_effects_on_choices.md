@@ -46,8 +46,6 @@ A main problem with it is that it is a double edged sword- somtimes this judgeme
 
 It is pretty obvious that this ego-judgment has very few advantages to oneself (other than satisfying the need to react with ego to events...). I see how one could have a better way of navigating life, with letting ego less access.
 
-There are partly also reasons of interest and a meaningful feeling that affect.
-
 It's funny how the acknowledgement of the effects of this type of ego is almost never done publicly, as opposed to the abbundent existence of these effects. Yet, if one knows how to look for it, it is may be not hard to see when and how it drives other people.
 
 I might write here more.
