@@ -38,7 +38,16 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
-I get to be near better people then me. They are smarter, more creative, more productive, make a better social atmosphere, have higher confidence than me. It is not comfortable. When this feeling appears in its full form, it pulls taste out of the endeavors. "He won't find any gain in explaining it to me slowly and give me the time and place to understand", "Everyone knows that he is doing it better. ", "I am not worth these resources."
+There are better people then me. There are smarter, more creative, more productive, more helping, with more confidence than me. 
+There are mixed reaction to this understanding.
+Sometimes, it is not comfortable. When this feeling appears in its full form, it pulls taste out of my endeavors. 
+Two thoughts-
+- "If I am not of the most worth, the most ability to aid in a situation, then it may not worth to help me and give me resources as money or teaching or other general-goods."
+- "Everyone here noticed that they are better then me". This thought alone sometimes comes with some stone in the belly. It is amazing, how my hardware, decended by so many generations of living creatures, is so vulnerable.
 
-At first glance, that shouldn't bother at all, in case where we are not competing on the same essential resource to life. Rationally speaking, the best strategy would be to enjoy their company, as it is much more special than that of other people, and the interactions will be more interesting and productive. It feels weird to write about that, but I am sure that almost everyone have these thoughts on some kinds of environments. 
+Rationally, that shouldn't bother at all, in case where we are not competing on the same essential resource to life. The best strategy would be to enjoy their company, as:
+- Their company is special, with interesting and productive interactions. 
+- It is great that these people exist, aiding in the economy and we have such social contracts that overall me and everyone else enjoys.
+
+It feels weird to write about that, and also important as it allows to think the situation more clearly. I am sure that these thoughts resonate with many people.
 Maybe I'll write here more later.
