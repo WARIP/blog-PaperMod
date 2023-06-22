@@ -38,6 +38,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
+
 So there are some motives and "challenges" processed here-
 1. to be in learning mode with a lot of bits per second processed and incorporated to the brain with this feeling of growing, for as many moments as possible
 2. Interest in the question of compressing the world's information, with all of the insights of many amazing minds, given the way this information is menifested in the world.
