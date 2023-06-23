@@ -38,4 +38,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
-I will discuss only my personal dynamics of thoughts and feelings.
+Sometimes I hear in my mind the words "do good".
+Sometimes I judge my actions by how many people do I help, and mostly it is passing as a very low number.
+I used to try to explain in words what are my motives, and with saying "trying to help all of the world's people/living creatures"/"maximize total utility" felt very artificial, even thought when in my head there have been more logic to them.
+
+- I see people helping/protecting other very specific people, e.g. their child, their partner, their friend, a specific stranger or a group of these. The help is done in a way that cause damage to other people or living creatures in general. Sometimes it seems to come from wanting to get something in return, and sometimes it seems to come from empathy and wanting to better their lives, and sometimes it seems more automatic then thoughtful. And to me it looks very specific- why to help these specific things, and hurt others? Sometimes here comes a judgement. 
+
+I think that there is some instinct in my head of not allowing "selfishness" (this sentence has more complex meaning and nuanced than accessed by my mind right now).
+
+Then I understand- there are people in their subjective world, acting by their subjective instincts. And when they crush others, the world does not fall down. Not in general, and also not their particular world. It is funny how many times it seems like they don't care of the selfishness happened, and don't having large damage caused. This possibility of being selfishness on top of others feels weird

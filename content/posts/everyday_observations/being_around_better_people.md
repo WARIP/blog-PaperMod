@@ -38,8 +38,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 
 ---
-There are better people then me. There are smarter, more creative, more productive, more helping, with more confidence than me. 
-There are mixed reaction to this understanding.
+There are better people then me. There are specific people who seem to be smarter, more creative, more productive, more helping, with more confidence than me. In this case the seeming to be X-er seems to be representative of reality (and not a total illusion).
+There are mixed reactions to this understanding.
 Sometimes, it is not comfortable. When this feeling appears in its full form, it pulls taste out of my endeavors. 
 Two thoughts-
 - "If I am not of the most worth, the most ability to aid in a situation, then it may not worth to help me and give me resources as money or teaching or other general-goods."
