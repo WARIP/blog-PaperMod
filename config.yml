@@ -17,8 +17,8 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Work in Progress 01
   description: "blog"
-  keywords: [learning, math, general]
-  author: Aviv Ruimi
+  keywords: [learning, math, general, psychology]
+  author: Arnold
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
